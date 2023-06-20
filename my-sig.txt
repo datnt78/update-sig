@@ -130,10 +130,6 @@ https://github.com/pacho15/mynuclei_templates
 https://github.com/0x240x23elu/nuclei2021
 https://github.com/Akokonunes/nuclei2021
 https://github.com/0xAwali/Blind-SSRF
-https://gist.githubusercontent.com/0x240x23elu/29c081552f321ae50fd179c51f4d56da/raw/f8faba083e5420065269b9be32fd14de5c0f0ca9/CVE-2022-22947.yaml
-https://gist.githubusercontent.com/0x240x23elu/67338cc0a71588bca8f1a318a05d67e2/raw/78c3b8c73ca04d58bd26be2abd659ce0d1d01d29/spring-cloud.yaml
-https://gist.githubusercontent.com/0x240x23elu/7b758dc76a9b2bef1a0dc164a9358a15/raw/333cc56eff98ff0f4f49b99c09b3d2d7fc7222e6/Synology.yaml
-https://gist.githubusercontent.com/0x240x23elu/c99d44376ffda02b1a4a05a1037cb126/raw/a9038f094eaa427a9b5680f780f64f9e3edffdc0/CVE-2020-3580.yaml
 https://github.com/arielril/nuclei-templates
 https://github.com/AshiqurEmon/nuclei_templates
 https://github.com/BeRserKerSec/CVE-2021-26084-Nuclei-template
