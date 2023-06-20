@@ -107,7 +107,6 @@ https://github.com/topscoder/nuclei-wordfence-cve
 https://github.com/toramanemre/apache-solr-log4j-CVE-2021-44228
 https://github.com/toramanemre/log4j-rce-detect-waf-bypass
 https://github.com/trickest/log4j
-https://github.com/trungkay2/Nuclei-template
 https://github.com/wasp76b/nuclei-templates
 https://github.com/wr00t/templates
 https://github.com/xinZa1/template
