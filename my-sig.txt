@@ -1,9 +1,7 @@
-https://github.com/0XParthJ/Nuclei-Templates
 https://github.com/0x727/ObserverWard_0x727
 https://github.com/0xAwali/Virtual-Host
 https://github.com/0xPugazh/my-nuclei-templates
 https://github.com/0xmaximus/final_freaking_nuclei_templates
-https://github.com/1dayluo/My-Nuclei-Templates
 https://github.com/1in9e/my-nuclei-templates
 https://github.com/5cr1pt/templates
 https://github.com/ARPSyndicate/kenzer-templates
@@ -118,7 +116,6 @@ https://github.com/zinminphyo0/KozinTemplates
 https://github.com/projectdiscovery/nuclei-templates
 https://github.com/pikpikcu/my-nuclei-templates
 https://github.com/pikpikcu/nuclei-templates
-https://github.com/foulenzer/foulenzer-templates
 https://github.com/joanbono/nuclei-templates
 https://github.com/Nithissh0708/Custom-Nuclei-Templates
 https://github.com/ChiaraNRTT96/BountySkill
@@ -133,6 +130,10 @@ https://github.com/pacho15/mynuclei_templates
 https://github.com/0x240x23elu/nuclei2021
 https://github.com/Akokonunes/nuclei2021
 https://github.com/0xAwali/Blind-SSRF
+https://gist.githubusercontent.com/0x240x23elu/29c081552f321ae50fd179c51f4d56da/raw/f8faba083e5420065269b9be32fd14de5c0f0ca9/CVE-2022-22947.yaml
+https://gist.githubusercontent.com/0x240x23elu/67338cc0a71588bca8f1a318a05d67e2/raw/78c3b8c73ca04d58bd26be2abd659ce0d1d01d29/spring-cloud.yaml
+https://gist.githubusercontent.com/0x240x23elu/7b758dc76a9b2bef1a0dc164a9358a15/raw/333cc56eff98ff0f4f49b99c09b3d2d7fc7222e6/Synology.yaml
+https://gist.githubusercontent.com/0x240x23elu/c99d44376ffda02b1a4a05a1037cb126/raw/a9038f094eaa427a9b5680f780f64f9e3edffdc0/CVE-2020-3580.yaml
 https://github.com/arielril/nuclei-templates
 https://github.com/AshiqurEmon/nuclei_templates
 https://github.com/BeRserKerSec/CVE-2021-26084-Nuclei-template
@@ -167,7 +168,6 @@ https://github.com/smaranchand/pvt-nuc-tem
 https://github.com/CriticalMatterial/NucleiTemplates
 https://github.com/MikeeI/nuclei-templates
 https://github.com/ayadim/nuclei-templates
-https://github.com/ayadim/Nuclei-bug-hunter/tree/main/file
 https://github.com/testtt3424/nuclei-templates
 https://github.com/V0idC0de/dir-listing-iis-test
 https://github.com/SecTheBit/CVE-2022-1388
@@ -188,7 +188,7 @@ https://github.com/0xElkot/My-Nuclei-Templates
 https://github.com/emadshanab/Content-Injection-Nuclei-Script
 https://github.com/thebrnwal/Apache-Server-Status-Misconfiguration-nuclei-script
 https://github.com/BishopFox/h2csmuggler/tree/master/extensions/nuclei-template
-https://github.com/0xElkot/My-Nuclei-Templates/blob/main/sqli.yaml
+https://github.com/0xElkot/My-Nuclei-Templates
 https://github.com/Pear1y/CVE-2022-0540-Preauth-RCE
 https://github.com/numanturle/CVE-2022-1388
 https://github.com/HernanRodriguez1/ScanReflectedXSS
@@ -197,5 +197,5 @@ https://github.com/rix4uni/BugBountyTips
 https://github.com/Lu3ky13/Authorization-Nuclei-Templates
 https://github.com/bug-vs-me/nuclei
 https://github.com/bhataasim1/PersonalTemplates.git
-https://github.com/themoonbaba/private_templates/blob/main/springboot_heapdump.yaml
+https://github.com/themoonbaba/private_templates
 https://github.com/Mr-xn/CVE-2023-23333
