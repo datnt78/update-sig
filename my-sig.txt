@@ -193,3 +193,4 @@ https://github.com/bug-vs-me/nuclei
 https://github.com/bhataasim1/PersonalTemplates.git
 https://github.com/themoonbaba/private_templates
 https://github.com/Mr-xn/CVE-2023-23333
+https://github.com/emadshanab/nucleiDB
