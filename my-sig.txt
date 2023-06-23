@@ -80,6 +80,7 @@ https://github.com/praetorian-inc/chariot-launch-nuclei-templates
 https://github.com/ptyspawnbinbash/template-enhancer
 https://github.com/rafaelcaria/Nuclei-Templates
 https://github.com/rafaelwdornelas/my-nuclei-templates
+https://github.com/SirBugs/Priv8-Nuclei-Templates
 https://github.com/rahulkadavil/nuclei-templates
 https://github.com/randomstr1ng/nuclei-sap-templates
 https://github.com/redteambrasil/nuclei-templates
@@ -194,3 +195,4 @@ https://github.com/bhataasim1/PersonalTemplates.git
 https://github.com/themoonbaba/private_templates
 https://github.com/Mr-xn/CVE-2023-23333
 https://github.com/emadshanab/nucleiDB
+https://github.com/emadshanab/nuclei
