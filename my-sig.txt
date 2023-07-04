@@ -116,7 +116,6 @@ https://github.com/zer0yu/Open-PoC
 https://github.com/zinminphyo0/KozinTemplates
 https://github.com/projectdiscovery/nuclei-templates
 https://github.com/pikpikcu/my-nuclei-templates
-https://github.com/pikpikcu/nuclei-templates
 https://github.com/joanbono/nuclei-templates
 https://github.com/Nithissh0708/Custom-Nuclei-Templates
 https://github.com/ChiaraNRTT96/BountySkill
@@ -183,7 +182,6 @@ https://github.com/0xElkot/My-Nuclei-Templates
 https://github.com/emadshanab/Content-Injection-Nuclei-Script
 https://github.com/thebrnwal/Apache-Server-Status-Misconfiguration-nuclei-script
 https://github.com/BishopFox/h2csmuggler/tree/master/extensions/nuclei-template
-https://github.com/0xElkot/My-Nuclei-Templates
 https://github.com/Pear1y/CVE-2022-0540-Preauth-RCE
 https://github.com/numanturle/CVE-2022-1388
 https://github.com/HernanRodriguez1/ScanReflectedXSS
@@ -192,7 +190,13 @@ https://github.com/rix4uni/BugBountyTips
 https://github.com/Lu3ky13/Authorization-Nuclei-Templates
 https://github.com/bug-vs-me/nuclei
 https://github.com/bhataasim1/PersonalTemplates.git
-https://github.com/themoonbaba/private_templates
 https://github.com/Mr-xn/CVE-2023-23333
 https://github.com/emadshanab/nucleiDB
 https://github.com/emadshanab/nuclei
+https://github.com/0XParthJ/Nuclei-Templates
+https://github.com/1dayluo/My-Nuclei-Templates
+https://github.com/foulenzer/foulenzer-templates
+https://github.com/bhataasim1/PersonalTemplates
+https://github.com/themastersunil/Nuclei-TamplatesBackup
+https://github.com/themastersunil/nucleiDB
+https://github.com/pacho15/mynuclei_templates
