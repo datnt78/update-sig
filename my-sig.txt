@@ -200,4 +200,5 @@ https://github.com/bhataasim1/PersonalTemplates
 https://github.com/themastersunil/Nuclei-TamplatesBackup
 https://github.com/themastersunil/nucleiDB
 https://github.com/pacho15/mynuclei_templates
-https://github.com/daffainfo/nuclei-malware
+https://github.com/daffainfo/nuclei-malware/tree/main/Yara-Rules
+https://github.com/daffainfo/nuclei-malware/tree/main/BinaryAlert
